@@ -31,8 +31,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Add solution URL here](https://github.com/KaueACLima/projeto-perfil-de-links-sociais))
-- URL do site ativo: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: (https://github.com/KaueACLima/projeto-perfil-de-links-sociais)
+- URL do site ativo: (https://your-live-site-url.com)](https://kaueaclima.github.io/projeto-perfil-de-links-sociais/)
 
 ## Meu processo
 
