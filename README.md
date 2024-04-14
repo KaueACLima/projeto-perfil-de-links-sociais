@@ -15,8 +15,6 @@ Esta é uma solução para o [Desafio de perfil de links sociais no Frontend Men
 - [Autor](#author)
 - [Agradecimentos](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Visão geral
 
 ### O desafio
